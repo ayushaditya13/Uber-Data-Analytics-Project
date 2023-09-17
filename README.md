@@ -8,4 +8,4 @@ manipulation skills, and extracting valuable insights into rider behavior and dr
 handling, decision-making, and collaboration within a team.
 • Executed complex queries and aggregations through BigQuery, revealing cost-effective routes and driving a remarkable 
 enhancement in driver efficiency, showcasing problem-solving abilities.
-• Utilized Looker for advanced data visualization, creating interactive dashboards
+• Utilized Looker for advanced data visualization, creating interactive dashboards.
